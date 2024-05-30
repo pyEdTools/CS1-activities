@@ -1,4 +1,4 @@
-# Python project ideas for intro
+# Python project ideas for CS1 summative assessments 
 
 1. Weather analysis - Be able to output Highest and lowest temperature recorded. Average temperature. Number of days it rained. Day’s it said it wouldn’t rain but there was rainfall. Visualize and report the data. Use real world data for the weather. 
 
