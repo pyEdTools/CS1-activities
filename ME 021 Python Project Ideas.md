@@ -229,11 +229,9 @@ Housing Campus converter - Program that calculates the expenses of food / living
 
 1. Housing Roommate Finder - 
 
- Recommend Video Games based on user selection of interests -  Finding out what type of platform/console the user likes to play on, what types of genre of video game the user likes to play, how many people the user like to play with, the duration of how long each game takes to complete 
+1. Recommend Video Games based on user selection of interests -  Finding out what type of platform/console the user likes to play on, what types of genre of video game the user likes to play, how many people the user like to play with, the duration of how long each game takes to complete 
 
 1. Periodic Table lookup - The user will enter the name of the element or symbol and will output all the information of that element. 
-
-1. Bobcat Shuttle Tracker - 
 
 1. Bobcat Shuttle Tracker - 
 
@@ -274,4 +272,5 @@ Housing Campus converter - Program that calculates the expenses of food / living
 1. Interactive Program - Program dealing with directional Movement and QE for rotations. 
 
 1. Workout Planner - Goal topics for the planner are to take the number of days per week and split them up evenly. Give exercises for certain muscle groups to target, space them out with optimum recovery time, Provide exercises for the muscle groups being targeted. Find out if the person wants to cut/maintain/bulk on their diet. Give a list of the average calorie intake required for men and women. 
+
 1. Gradebook - 
